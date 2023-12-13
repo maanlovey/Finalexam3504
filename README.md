@@ -37,4 +37,4 @@ Dockerize the website to streamline the deployment process and enhance the devel
 
 ## Current IPv4 DNS Link
 
-Access the web application: [http://ec2-3-83-234-187.compute-1.amazonaws.com/Index.html](http://ec2-3-83-234-187.compute-1.amazonaws.com/index.html)
+Access the web application: [http://ec2-54-242-237-65.compute-1.amazonaws.com/Index.html](http://ec2-54-242-237-65.compute-1.amazonaws.com)
